@@ -1,0 +1,4 @@
+modules/
+secret.txt
+*.log
+secret_*.js
